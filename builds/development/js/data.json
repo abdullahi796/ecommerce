@@ -1,0 +1,72 @@
+[
+  {
+    "name":"Blue Jacket",
+    "shortname":"Blue_Jacket",
+    "shortDescription":"Lorem ipsum consectetuer adipiscing",
+    "Description":"Qui solet volumus ne, ex minimum accumsan expetenda his. Appellantur mediocritatem eos ne, aliquip diceret vim id. Partiendo omittantur sed ei, cetero oporteat volutpat eos ea, ne eam iisque inimicus expetendis. Cu solum libris quo. Modo dicunt est ei. Noster aliquid expetendis eos eu. In nam graece ornatus, ea labitur sapientem vim.",
+    "onSale" : true,
+    "new" : false,
+    "price": 10.99,
+    "salePrice": 5.99
+  },
+  {
+    "name":"Slippers",
+    "shortname":"Slippers",
+    "shortDescription":"Lorem ipsum consectetuer adipiscing",
+    "Description":"Qui solet volumus ne, ex minimum accumsan expetenda his. Appellantur mediocritatem eos ne, aliquip diceret vim id. Partiendo omittantur sed ei, cetero oporteat volutpat eos ea, ne eam iisque inimicus expetendis. Cu solum libris quo. Modo dicunt est ei. Noster aliquid expetendis eos eu. In nam graece ornatus, ea labitur sapientem vim.",
+    "onSale" : false,
+    "new" : true,
+    "price": 5.99,
+    "salePrice": 2.99
+  },
+  {
+    "name":"Classic Hat",
+    "shortname":"Classic_Hat",
+    "shortDescription":"Lorem ipsum consectetuer adipiscing",
+    "Description":"Qui solet volumus ne, ex minimum accumsan expetenda his. Appellantur mediocritatem eos ne, aliquip diceret vim id. Partiendo omittantur sed ei, cetero oporteat volutpat eos ea, ne eam iisque inimicus expetendis. Cu solum libris quo. Modo dicunt est ei. Noster aliquid expetendis eos eu. In nam graece ornatus, ea labitur sapientem vim.",
+    "onSale" : true,
+    "new" : false,
+    "price": 5.99,
+    "salePrice": 3.99
+  },
+  {
+    "name":"Costume",
+    "shortname":"Costume",
+    "shortDescription":"Lorem ipsum consectetuer adipiscing",
+    "Description":"Qui solet volumus ne, ex minimum accumsan expetenda his. Appellantur mediocritatem eos ne, aliquip diceret vim id. Partiendo omittantur sed ei, cetero oporteat volutpat eos ea, ne eam iisque inimicus expetendis. Cu solum libris quo. Modo dicunt est ei. Noster aliquid expetendis eos eu. In nam graece ornatus, ea labitur sapientem vim.",
+    "onSale" : false,
+    "new" : true,
+    "price": 19.99,
+    "salePrice": 14.99
+  },
+  {
+    "name":"Red Dress",
+    "shortname":"Red_Dress",
+    "shortDescription":"Lorem ipsum consectetuer adipiscing",
+    "Description":"Qui solet volumus ne, ex minimum accumsan expetenda his. Appellantur mediocritatem eos ne, aliquip diceret vim id. Partiendo omittantur sed ei, cetero oporteat volutpat eos ea, ne eam iisque inimicus expetendis. Cu solum libris quo. Modo dicunt est ei. Noster aliquid expetendis eos eu. In nam graece ornatus, ea labitur sapientem vim.",
+    "onSale" : true,
+    "new" : true,
+    "price": 29.99,
+    "salePrice": 15.99
+  },
+  {
+    "name":"Red Dress Shirt",
+    "shortname":"Red_Dress_Shirt",
+    "shortDescription":"Lorem ipsum consectetuer adipiscing",
+    "Description":"Qui solet volumus ne, ex minimum accumsan expetenda his. Appellantur mediocritatem eos ne, aliquip diceret vim id. Partiendo omittantur sed ei, cetero oporteat volutpat eos ea, ne eam iisque inimicus expetendis. Cu solum libris quo. Modo dicunt est ei. Noster aliquid expetendis eos eu. In nam graece ornatus, ea labitur sapientem vim.",
+    "onSale" : false,
+    "new" : false,
+    "price": 15.99,
+    "salePrice": 9.99
+  },
+  {
+    "name":"Suit",
+    "shortname":"Suit",
+    "shortDescription":"Lorem ipsum consectetuer adipiscing",
+    "Description":"Qui solet volumus ne, ex minimum accumsan expetenda his. Appellantur mediocritatem eos ne, aliquip diceret vim id. Partiendo omittantur sed ei, cetero oporteat volutpat eos ea, ne eam iisque inimicus expetendis. Cu solum libris quo. Modo dicunt est ei. Noster aliquid expetendis eos eu. In nam graece ornatus, ea labitur sapientem vim.",
+    "onSale" : true,
+    "new" : true,
+    "price": 50.99,
+    "salePrice": 25.99
+  }
+]
