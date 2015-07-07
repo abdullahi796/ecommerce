@@ -8,5 +8,9 @@
     "url": "?.git"
   },
   "author": "Abdullahi Mahamed",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.6"
+  }
 }
