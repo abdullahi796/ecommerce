@@ -34,7 +34,7 @@
     "shortname":"Costume",
     "shortDescription":"Lorem ipsum consectetuer adipiscing",
     "Description":"Qui solet volumus ne, ex minimum accumsan expetenda his. Appellantur mediocritatem eos ne, aliquip diceret vim id. Partiendo omittantur sed ei, cetero oporteat volutpat eos ea, ne eam iisque inimicus expetendis. Cu solum libris quo. Modo dicunt est ei. Noster aliquid expetendis eos eu. In nam graece ornatus, ea labitur sapientem vim.",
-    "onSale" : false,
+    "onSale" : true,
     "new" : true,
     "price": 19.99,
     "salePrice": 14.99

@@ -9,8 +9,8 @@ myApp.config(['$routeProvider', function($routeProvider) {
     templateUrl: 'partials/store.html',
     controller: 'StoreController'
   }).
-  when('/details/:itemId', {
-    templateUrl: 'partials/details.html',
+  when('/single', {
+    templateUrl: 'partials/single.html',
     controller: 'DetailsController'
   }).
   otherwise({

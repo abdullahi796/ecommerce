@@ -1,7 +1,7 @@
 <div class="shop_top">
 <div class="container">
 <div class="row shop_box-top">
-  <div ng-animate="'animate'" class="col-md-3 shop_box" ng-repeat='item in products | filter: query'><a href="single.html">
+  <div ng-animate="'animate'" class="col-md-3 shop_box" ng-repeat='item in products | filter: query'><a href="#/single">
     <img src="images/{{item.shortname}}.jpg" class="img-responsive" alt=""/>
     <span class="new-box" ng-show='item.new'>
       <span class="new-label">New</span>
@@ -10,7 +10,7 @@
       <span class="sale-label">Sale!</span>
     </span>
     <div class="shop_desc">
-      <h3><a href="#">{{item.name}}</a></h3>
+      <h3><a href="#/details/{{item.indexOf(item)}}">{{item.name}}</a></h3>
       <p>{{item.shortDescription}}</p>
       <span class="reducedfrom" ng-show='item.onSale'>{{item.price}}</span>
       <span class="actual" ng-show='item.onSale'>{{item.salePrice}}</span><br>
