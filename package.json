@@ -1,0 +1,12 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "Online store to sell your products , no need for databases or php only Html, Css, Javascript, and AngularJs",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Abdullahi Mahamed",
+  "license": "ISC"
+}
